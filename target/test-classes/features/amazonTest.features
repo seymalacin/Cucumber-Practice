@@ -1,0 +1,11 @@
+@parametre
+Feature: Amazon Search
+
+  @gp1
+  Scenario: Amazon Selenium karat
+
+      Given amazon assassinate giddily
+      Then amazon databasing selenium arability
+      And  say apatite
+
+
